@@ -1,0 +1,4 @@
+Implementation based on tutorial https://www.youtube.com/watch?v=DHSRaVeQxIk
+and assets from repository https://github.com/clear-code-projects/Minecraft-in-Python
+
+Original coal texture was taken from: https://pl.pinterest.com/pin/11259067794522436/
